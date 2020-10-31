@@ -1,0 +1,50 @@
+c:/wamp/www/shellindex.php
+/var/www/html/shellindex.php
+/root/apache/shellindex.php
+/user/apache/shellindex.php
+/user/.apache/shellindex.php
+/root/.apache/shellindex.php
+/home/apache/shellindex.php
+/root/apache2/shellindex.php
+/user/apache2/shellindex.php
+/user/.apache2/shellindex.php
+/root/.apache2/shellindex.php
+/home/apache2/shellindex.php
+c:/wamp/www/shellindex.php
+c:/50x.html/shellindex.php
+c:/nginx/shellindex.php
+c:/nginx/www/shellindex.php
+c:/wamp/shellindex.php
+C:/Program Files (x86)/wamp/www/shellindex.php
+C:/Program Files (x86)/wamp/shellindex.php
+C:/Program Files (x86)/nginx/shellindex.php
+C:/Program Files (x86)/nginx/www/shellindex.php
+C:/Program Files (x86)/nginx/root/shellindex.php
+C:/Program Files (x86)/nginx/root/www/shellindex.php
+C:/Program Files (x86)/nginx/html/www/shellindex.php
+C:/Program Files (x86)/nginx/html/shellindex.php
+C:/Program Files (x86)/nginx/html/shellindex.php
+C:/html/shellindex.php
+C:/Users/elqstux/shellindex.php
+C:/root/shellindex.php
+C:/shellindex.php
+C:/www/shellindex.php
+D:/wamp/www/shellindex.php
+D:/50x.html/shellindex.php
+D:/nginx/shellindex.php
+D:/nginx/www/shellindex.php
+D:/wamp/shellindex.php
+D:/Program Files (x86)/wamp/www/shellindex.php
+D:/Program Files (x86)/wamp/shellindex.php
+D:/Program Files (x86)/nginx/shellindex.php
+D:/Program Files (x86)/nginx/www/shellindex.php
+D:/Program Files (x86)/nginx/root/shellindex.php
+D:/Program Files (x86)/nginx/root/www/shellindex.php
+D:/Program Files (x86)/nginx/html/www/shellindex.php
+D:/Users/elqstux/shellindex.php
+D:/Program Files (x86)/nginx/html/shellindex.php
+D:/Program Files (x86)/nginx/html/shellindex.php
+D:/html/shellindex.php
+D:/root/shellindex.php
+D:/shellindex.php
+D:/www/shellindex.php
